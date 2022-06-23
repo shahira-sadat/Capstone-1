@@ -91,7 +91,7 @@ function displayspeakers(featured) {
        </div>
      </div>
      `;
-    // return 0;
+    return 0;
   });
   displaySpeaker.innerHTML = display;
 }
