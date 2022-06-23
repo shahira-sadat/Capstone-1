@@ -119,3 +119,10 @@ ToggleBar.addEventListener('click', openSideBar);
 cancel.addEventListener('click', closeSideBar);
 document.addEventListener('DOMContentLoaded', displayspeakers(featured));
 moreBtn.addEventListener('click', moreShow);
+
+
+if (typeof window !== 'undefined') {
+    console.log('You are on the browser')
+} else {
+    console.log('You are on the server')
+}
