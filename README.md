@@ -7,7 +7,6 @@ Robotics Team, for Microverse Copstone project-1
 
 
 ## Live Demo
-
 [Live Demo Link](https://shahira-sadat.github.io/Capstone-1/)
 
 ## Built With
@@ -18,6 +17,9 @@ Robotics Team, for Microverse Copstone project-1
 - bootstrap
 - VS Code
 - JS
+
+## Link to video
+[Loom video Link](https://shahira-sadat.github.io/Capstone-1/)
 
 To get a local copy up and running follow these simple example steps.
 
@@ -40,6 +42,9 @@ open index.html in your local browser
 - Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
 - Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
 - Gmail: shahira.sadat1@gmail.com
+
+##  Design Credit
+[Original design idea by Cindy Shin in Behance](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
