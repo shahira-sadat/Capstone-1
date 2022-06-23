@@ -3,13 +3,12 @@
 Robotics Team, for Microverse Copstone project-1
 
 > A description of the project here
-
-![screenshot]here
+<img width="1438" alt="Screen Shot 2022-06-24 at 2 23 25 AM" src="https://user-images.githubusercontent.com/53530780/175408052-2b92a7e2-a1fd-46fb-831d-69dfa8c51b6b.png">
 
 
 ## Live Demo
 
-[Live Demo Link](link here)
+[Live Demo Link](https://shahira-sadat.github.io/Capstone-1/)
 
 ## Built With
 - html
