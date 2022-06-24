@@ -124,6 +124,8 @@ h1,
   width: 20vw;
 }
 
+
+
 @media (min-width: 1200px) {
   h1,
   .h1 {
@@ -12252,14 +12254,14 @@ a {
 
 .present-profile h4 {
   color: #272a31;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
 .present-profile h5 {
   color: #ec5242;
   font-style: italic;
-  font-size: 0.85rem;
+  font-size: 1.4rem;
 }
 
 @media screen and(max-width: 767px) {
