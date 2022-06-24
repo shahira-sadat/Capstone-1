@@ -68,6 +68,16 @@
   }
 }
 
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -12125,8 +12135,8 @@ fieldset:disabled .btn {
 
 @media screen and(max-width: 767px) {
   .display-title {
-    font-size: 2.5rem;
-    font-weight: 700;
+    font-size: 1rem;
+
   }
 
   .display-hello {
@@ -12135,7 +12145,7 @@ fieldset:disabled .btn {
   }
 
   .display-paragraph {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 
   .display-h2 {
@@ -12300,8 +12310,10 @@ a {
 }
 
 .hero-inner {
-  margin: 15rem 8rem 4rem !important;
+  /* margin: 15rem 8rem 4rem !important; */
   max-width: 80%;
+  margin-top: 12em;
+  margin-left: 10vw; 
 }
 
 .para-container {
@@ -12323,7 +12335,7 @@ a {
   }
 
   .hero-inner {
-    margin: 3rem 0.6rem 2rem !important;
+    /* margin: 3rem 0.6rem 2rem !important; */
     width: 100%;
     max-width: 98% !important;
   }
@@ -12440,6 +12452,7 @@ footer {
     font-weight: 800;
     margin-right: 0.2rem;
   }
+
 }
 
 .toggle-button {
