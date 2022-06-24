@@ -80,7 +80,7 @@ function displayspeakers(featured) {
       title, subtitle, text, image,
     } = speaker;
     display += `
-     <div class="col-12 col-md-6 d-flex present-profile p-4">
+     <div class="col-12 col-md-6 d-flex justify-content-center align-items-center present-profile p-4">
       <div class='speaker-img-cont'>
       <img src='${image.src}' alt='${image.alt}' class='img-speaker'>
       </div>
