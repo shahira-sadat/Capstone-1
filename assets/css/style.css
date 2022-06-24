@@ -70,13 +70,12 @@
 
 html,
 body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
-
 
 body {
   margin: 0;
@@ -130,11 +129,9 @@ h1,
   width: 10vw;
 }
 
-.logo-2{
+.logo-2 {
   width: 20vw;
 }
-
-
 
 @media (min-width: 1200px) {
   h1,
@@ -12136,7 +12133,6 @@ fieldset:disabled .btn {
 @media screen and(max-width: 767px) {
   .display-title {
     font-size: 1rem;
-
   }
 
   .display-hello {
@@ -12313,7 +12309,7 @@ a {
   /* margin: 15rem 8rem 4rem !important; */
   max-width: 80%;
   margin-top: 12em;
-  margin-left: 10vw; 
+  margin-left: 10vw;
 }
 
 .para-container {
@@ -12452,7 +12448,6 @@ footer {
     font-weight: 800;
     margin-right: 0.2rem;
   }
-
 }
 
 .toggle-button {
@@ -12460,11 +12455,11 @@ footer {
 }
 
 .toggle-button span {
-width: 2em;
-height: 0.3em;
-background: #272a31;
-margin-bottom: 3px;
-scroll-behavior: smooth;
+  width: 2em;
+  height: 0.3em;
+  background: #272a31;
+  margin-bottom: 3px;
+  scroll-behavior: smooth;
 }
 
 .sidebar {
