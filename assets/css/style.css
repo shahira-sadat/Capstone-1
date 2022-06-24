@@ -120,6 +120,10 @@ h1,
   width: 10vw;
 }
 
+.logo-2{
+  width: 20vw;
+}
+
 @media (min-width: 1200px) {
   h1,
   .h1 {
@@ -12441,10 +12445,11 @@ footer {
 }
 
 .toggle-button span {
-  width: 80px;
-  height: 5px;
-  background: #272a31;
-  margin: 0.3rem 0;
+width: 2em;
+height: 0.3em;
+background: #272a31;
+margin-bottom: 3px;
+scroll-behavior: smooth;
 }
 
 .sidebar {
