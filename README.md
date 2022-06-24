@@ -1,73 +1,61 @@
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](Getting-Started)
-* [Usage](#usage)
-* [Author](#author)
-* [Acknowledgements](#acknowledgements)
+# Project Name
+Robotics Team, for Microverse Copstone project-1
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-Type about project
-
-### Built With
-This project was built using these technologies.
-* HTML
-* CSS3
-* VsCode
+> A description of the project here
+<img width="1438" alt="Screen Shot 2022-06-24 at 2 23 25 AM" src="https://user-images.githubusercontent.com/53530780/175408052-2b92a7e2-a1fd-46fb-831d-69dfa8c51b6b.png">
 
 
-## Getting Started
+## Live Demo
+[Live Demo Link](https://shahira-sadat.github.io/Capstone-1/)
+
+## Built With
+- html
+- css
+- node
+- git
+- bootstrap
+- VS Code
+- JS
+
+## Link to video
+[Loom video Link](https://www.loom.com/share/53267764b71b445fa9d28f212ceff507)
+
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+install git, node, any code editor in your local machine
 
 ### Setup
+clone the repo or download from https://github.com/shahira-sadat/Capstone-1
 
 ### Install
+install all dependencies with npm install
 
 ### Usage
+open index.html in your local browser
 
-### Run tests
-
-### Deployment
-
-## Usage
-
-To have this app on your pc, you need to:
-clone this repo:
-  - Clone with SSH:
-  ```
-    git@github.com:shahira-sadat/
-  ```
-  - Clone with HTTPS
-  ```
-    https://github.com/shahira-sadat/
-  ```
-
-<!-- CONTACT -->
-## Author
+## Authors
 👤 Shahira Sadat
-
 
 - GitHub: [Shahira Sadat](https://github.com/shahira-sadat)
 - Twitter: [Shahira Sadat](https://twitter.com/SadatShahira)
 - Linkedin: [Shahira Sadat](https://www.linkedin.com/in/shahira-sadat-49b402199)
 - Gmail: shahira.sadat1@gmail.com
 
+##  Design Credit
+[Original design idea by Cindy Shin in Behance](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 
-Give a :star: if you like this project!
+Give a ⭐️ if you like this project!
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Microverse](https://www.microverse.org/)
+## Acknowledgments
 
-## 📝 License
+- [Microverse](https://www.microverse.org/)
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
