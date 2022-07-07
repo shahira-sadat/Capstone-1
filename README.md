@@ -19,7 +19,7 @@ Robotics Team, for Microverse Copstone project-1
 - JS
 
 ## Link to video
-[Loom video Link](https://www.loom.com/share/53267764b71b445fa9d28f212ceff507)
+[Loom video Link](https://www.loom.com)
 
 
 To get a local copy up and running follow these simple example steps.
